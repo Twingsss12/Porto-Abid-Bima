@@ -19,7 +19,7 @@ window.onscroll = () => {
 };
 const textElement = document.getElementById("typing-text");
 // Kamu bisa menambah profesi lain di dalam array ini
-const words = ["Frontend Developer", "UI/UX Designer","Videographer"]; 
+const words = ["Frontend Developer", "UI/UX Designer"]; 
 let wordIndex = 0;
 let charIndex = 0;
 let isDeleting = false;
